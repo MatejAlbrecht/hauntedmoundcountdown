@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Creepster&display=swap');
+
+* {
+    background-color: black;
+    font-family: 'Creepster', cursive;
+}
+
+.container {
+    color: red;
+    font-size: 200%;
+    text-align: center;
+    margin-top: 5%;
+}
+
+#countdown {
+    margin: auto;
+    font-size: 300%;
+}
+
+#text {
+    font-size: 200%;
+} 
+
+img {
+    width: 30%;
+    margin-left: 34%;
+}
